@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="weather_primary">#1976D2</color>
+    <color name="weather_primary_dark">#0D47A1</color>
+    <color name="weather_accent">#00BCD4</color>
+    <color name="weather_bg">#F4F8FB</color>
+    <color name="weather_card">#FFFFFF</color>
+    <color name="weather_text_main">#212121</color>
+    <color name="weather_text_sec">#757575</color>
+    <color name="weather_border">#D1E3F8</color>
+    <color name="weather_blue_light">#E3F2FD</color>
+    <color name="white">#FFFFFF</color>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.WeatherApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/weather_primary</item>
+        <item name="colorPrimaryDark">@color/weather_primary_dark</item>
+        <item name="colorAccent">@color/weather_accent</item>
+        <item name="android:windowBackground">@color/weather_bg</item>
+        <item name="android:statusBarColor">@color/weather_primary_dark</item>
+    </style>
+</resources>

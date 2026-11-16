@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Прогноз погоды</string>
+    <string name="weather_title">Прогноз погоды WeatherAPI</string>
+    <string name="last_saved_header">Последние сохраненные данные</string>
+    <string name="dates_list_header">Список дат и прогнозов</string>
+    <string name="btn_load_api">Запросить из WeatherAPI</string>
+    <string name="btn_save">Сохранить изменения</string>
+    <string name="btn_edit">Редактировать</string>
+    <string name="btn_back">Назад</string>
+    <string name="edit_title">Редактирование данных</string>
+    <string name="label_city">Город</string>
+    <string name="label_date">Дата</string>
+    <string name="label_time_of_day">Время суток</string>
+    <string name="label_temp">Температура воздуха</string>
+    <string name="label_condition">Погодные условия</string>
+    <string name="label_comment">Заметка к погоде</string>
+    <string name="hint_city">Город</string>
+    <string name="hint_date">Дата (ГГГГ-ММ-ДД)</string>
+    <string name="hint_temp">Температура в °C</string>
+    <string name="hint_comment">Комментарий к наблюдению</string>
+    <string name="empty_fields_warning">Заполните дату и температуру</string>
+    <string name="success_saved">Данные погоды обновлены</string>
+    <string name="error_network">Ошибка подключения к WeatherAPI, показаны сохраненные данные</string>
+    <string name="no_data">Нет сохраненных данных о погоде</string>
+</resources>
